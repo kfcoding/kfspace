@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.f583f5e9.chunk.css",
-  "main.js": "/static/js/main.a2f4bed4.chunk.js",
-  "main.js.map": "/static/js/main.a2f4bed4.chunk.js.map",
-  "static/css/1.2becdcde.chunk.css": "/static/css/1.2becdcde.chunk.css",
-  "static/js/1.9051a4b3.chunk.js": "/static/js/1.9051a4b3.chunk.js",
-  "static/js/1.9051a4b3.chunk.js.map": "/static/js/1.9051a4b3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.f583f5e9.chunk.css.map": "/static/css/main.f583f5e9.chunk.css.map",
-  "static/css/1.2becdcde.chunk.css.map": "/static/css/1.2becdcde.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.634e9627c59465a3e6f3cb75a96dfadb.js": "/precache-manifest.634e9627c59465a3e6f3cb75a96dfadb.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/kfspace/static/css/main.f583f5e9.chunk.css",
+  "main.js": "/kfspace/static/js/main.ea0af02c.chunk.js",
+  "main.js.map": "/kfspace/static/js/main.ea0af02c.chunk.js.map",
+  "static/css/1.2becdcde.chunk.css": "/kfspace/static/css/1.2becdcde.chunk.css",
+  "static/js/1.9359e3ba.chunk.js": "/kfspace/static/js/1.9359e3ba.chunk.js",
+  "static/js/1.9359e3ba.chunk.js.map": "/kfspace/static/js/1.9359e3ba.chunk.js.map",
+  "runtime~main.js": "/kfspace/static/js/runtime~main.1cdcfa88.js",
+  "runtime~main.js.map": "/kfspace/static/js/runtime~main.1cdcfa88.js.map",
+  "static/css/1.2becdcde.chunk.css.map": "/kfspace/static/css/1.2becdcde.chunk.css.map",
+  "static/css/main.f583f5e9.chunk.css.map": "/kfspace/static/css/main.f583f5e9.chunk.css.map",
+  "index.html": "/kfspace/index.html",
+  "precache-manifest.70cbaa97e8e520516e54b4dd35fc5d8f.js": "/kfspace/precache-manifest.70cbaa97e8e520516e54b4dd35fc5d8f.js",
+  "service-worker.js": "/kfspace/service-worker.js"
 }
