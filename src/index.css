@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#root {
+  height: 100%;
+}
+
+#root>div, #root>div>div {
+  height: 100%;
+}
+
+.xterm {
+  height: 100%;
+}

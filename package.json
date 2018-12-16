@@ -3,9 +3,27 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@pinyin/measure": "0.0.3",
+    "antd": "^3.11.2",
+    "browserfs": "^1.4.3",
+    "highlight.js": "^9.13.1",
+    "isomorphic-git": "^0.46.2",
+    "mobx": "^5.8.0",
+    "mobx-react": "^5.4.3",
+    "mobx-state-tree": "^3.9.0",
+    "moment": "^2.23.0",
+    "pify": "^4.0.1",
     "react": "^16.6.3",
+    "react-addons-shallow-compare": "^15.6.2",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-loading-screen": "^0.0.17",
+    "react-lowlight": "^2.0.0",
+    "react-markdown": "^4.0.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-split-pane": "^0.1.85",
+    "socket.io-client": "^2.2.0",
+    "xterm": "^3.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
