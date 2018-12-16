@@ -1,7 +1,7 @@
 {
   "main.css": "/kfspace/static/css/main.05e09884.chunk.css",
-  "main.js": "/kfspace/static/js/main.d2006418.chunk.js",
-  "main.js.map": "/kfspace/static/js/main.d2006418.chunk.js.map",
+  "main.js": "/kfspace/static/js/main.f664b872.chunk.js",
+  "main.js.map": "/kfspace/static/js/main.f664b872.chunk.js.map",
   "static/css/1.121651d6.chunk.css": "/kfspace/static/css/1.121651d6.chunk.css",
   "static/js/1.f0f42523.chunk.js": "/kfspace/static/js/1.f0f42523.chunk.js",
   "static/js/1.f0f42523.chunk.js.map": "/kfspace/static/js/1.f0f42523.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.121651d6.chunk.css.map": "/kfspace/static/css/1.121651d6.chunk.css.map",
   "static/css/main.05e09884.chunk.css.map": "/kfspace/static/css/main.05e09884.chunk.css.map",
   "index.html": "/kfspace/index.html",
-  "precache-manifest.e024d5892fbdf3a59b6c7b0e7b16ab2f.js": "/kfspace/precache-manifest.e024d5892fbdf3a59b6c7b0e7b16ab2f.js",
+  "precache-manifest.102df7a185a379d4b905bb009eaa1c47.js": "/kfspace/precache-manifest.102df7a185a379d4b905bb009eaa1c47.js",
   "service-worker.js": "/kfspace/service-worker.js"
 }
